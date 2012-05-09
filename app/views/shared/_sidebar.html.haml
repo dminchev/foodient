@@ -1,0 +1,28 @@
+= form_tag "/search", :method => "get", :class => 'search' do
+  = text_field_tag :q, nil, :placeholder => 'search'
+
+%h2 Sort by
+%ul.unstyled.filters
+  %li
+    %a(href="#") a - z
+  %li
+    %a(href="#") recent
+  %li
+    %a(href="#") tags
+
+%h2 Tags
+%ul.unstyled.filters
+  %li
+    %a(href="#") Beef (12)
+  %li
+    %a(href="#") Dinner (1)
+  %li
+    %a(href="#") Desert (2)
+  %li
+    %a(href="#") iPhone (231)
+  %li.active
+    %a(href="#") > Emailed (12)
+  %li
+    %a(href="#") Shared (4)
+  %li.actions
+    %a(href="#") + create a tag

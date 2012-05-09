@@ -1,0 +1,26 @@
+%header.container
+  %a.brand(href="#") 
+    %span
+    foodient
+  %nav
+    %ul.tabs
+      %li
+        %span.left
+        = link_to "<span></span>Basket".html_safe, root_path, :class => :basket
+        %span.right
+      %li.active
+        %span.left
+        = link_to "<span></span>Favorites".html_safe, root_path, :class => :favorites
+        %span.right
+      %li
+        %span.left
+        = link_to "<span></span>Explore".html_safe, root_path, :class => :explore
+        %span.right
+%footer
+  %section.container
+    %aside.notification
+      %aside 7
+      recipes in your basket
+    %section.slogan 
+      Add recipes to your favourites while you browse. 
+      %br View different ways.

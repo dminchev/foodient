@@ -1,0 +1,16 @@
+-# short_url = @client.shorten(item['url'])
+%section.item
+  %header
+    = image_tag item['images'].first['url']
+  %section
+    %p
+      = item['title']
+      -# link_to short_url.urls, short_url.urls
+      %a(href="#") bit.ly/Hbi42T
+  %footer
+    by
+    = image_tag "test/company_1.png"
+    %a.btn.actions(href="#")
+      Add to Basket
+      %div
+        %span

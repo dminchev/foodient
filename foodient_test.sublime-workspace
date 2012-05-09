@@ -1,0 +1,543 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex",
+				"text	text-transform: capitalize/upper/lower"
+			],
+			[
+				"fsz",
+				"fsz-small"
+			],
+			[
+				"fz",
+				"font-size"
+			],
+			[
+				"ff",
+				"font-family"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"te",
+				"text	text-transform: capitalize/upper/lower"
+			],
+			[
+				"backgrou",
+				"background	background: color image repeat attachment position"
+			],
+			[
+				"back",
+				"background	background-color: hex"
+			],
+			[
+				"list",
+				"list	list-style: type position image"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"hea",
+				"header	<header>"
+			],
+			[
+				"nth",
+				"nth-last-child"
+			],
+			[
+				"col",
+				"color	color: hex"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"data",
+				"data-height"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"f",
+				"font	font: size font"
+			],
+			[
+				"marg",
+				"margin	margin-left: length"
+			],
+			[
+				"pad",
+				"padding	padding: all"
+			],
+			[
+				"view",
+				"view-all"
+			],
+			[
+				"pla",
+				"place"
+			],
+			[
+				"lo",
+				"lorem	Lorem ipsum"
+			],
+			[
+				"ran",
+				"random"
+			],
+			[
+				"check",
+				"checkin"
+			],
+			[
+				"revi",
+				"review"
+			],
+			[
+				"some",
+				"somerepo"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/views/layouts/fixed.html.haml",
+			"settings":
+			{
+				"buffer_size": 1242,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/application.css.less",
+			"settings":
+			{
+				"buffer_size": 3672,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/home/_item.html.haml",
+			"settings":
+			{
+				"buffer_size": 299,
+				"line_ending": "Unix",
+				"name": "_item.html.haml"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/elements.css.less",
+			"settings":
+			{
+				"buffer_size": 1303,
+				"line_ending": "Unix",
+				"name": "elements.css.less"
+			}
+		},
+		{
+			"file": "app/views/home/index.html.haml",
+			"settings":
+			{
+				"buffer_size": 37,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/variables.css.less",
+			"settings":
+			{
+				"buffer_size": 436,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 247.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/dobri/Sites/oDesk/Client1/foodient_test/app/views/shared/_sidebar.html.haml",
+		"/Users/dobri/Sites/oDesk/Client1/foodient_test/app/assets/stylesheets/variables.css.less",
+		"/Users/dobri/Sites/oDesk/Client1/foodient_test/app/assets/stylesheets/bootstrap_and_overrides.css.less",
+		"/Users/dobri/Sites/oDesk/Client1/foodient_test/app/assets/stylesheets/forms.css.less",
+		"/Users/dobri/Sites/oDesk/Client1/foodient_test/Gemfile",
+		"/Users/dobri/Sites/oDesk/Client1/foodient_test/app/views/shared/_header.html.haml",
+		"/Users/dobri/Sites/oDesk/Client1/foodient_test/foodient_test.sublime-project",
+		"/Users/dobri/Sites/oDesk/Client1/foodient_test/app/controllers/application_controller.rb",
+		"/Users/dobri/Sites/oDesk/Client1/foodient_test/app/views/home/index.html.haml",
+		"/Users/dobri/Sites/oDesk/Client1/foodient_test/app/controllers/home_controller.rb",
+		"/Users/dobri/Sites/oDesk/Client1/foodient_test/config/routes.rb",
+		"/Users/dobri/Sites/oDesk/Client1/foodient_test/app/views/layouts/application.html.erb",
+		"/Users/dobri/Sites/Study/HTML5&CSS3/chapter4.style.css",
+		"/Users/dobri/Sites/Study/HTML5&CSS3/chapter4.css.html",
+		"/Users/dobri/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/avenue-k",
+		"/Users/dobri/Sites/F1RST/app/views/business/_sidebar.html.erb",
+		"/Users/dobri/Sites/F1RST/app/assets/stylesheets/includes.css.scss",
+		"/Users/dobri/Sites/F1RST/app/views/business/_navigation.html.erb",
+		"/Users/dobri/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/dobri/Sites/F1RST/app/models",
+			"/Users/dobri/Sites/F1RST/app/views"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"	",
+			"  ",
+			"checkin",
+			"crea",
+			"created",
+			"<div class=\"devider\"></div>",
+			"class=\"devider\"",
+			"tab"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"  ",
+			"	",
+			"<hr class=\"devider\" />"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/views/layouts/fixed.html.haml",
+					"settings":
+					{
+						"buffer_size": 1242,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								458,
+								465
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Haml/Syntaxes/Ruby Haml.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/assets/stylesheets/application.css.less",
+					"settings":
+					{
+						"buffer_size": 3672,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3638,
+								3638
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2694.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/views/home/_item.html.haml",
+					"settings":
+					{
+						"buffer_size": 299,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								294,
+								294
+							]
+						],
+						"settings":
+						{
+							"auto_name": "_item.html.haml",
+							"syntax": "Packages/Haml/Syntaxes/Ruby Haml.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/assets/stylesheets/elements.css.less",
+					"settings":
+					{
+						"buffer_size": 1303,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								471,
+								471
+							]
+						],
+						"settings":
+						{
+							"auto_name": "elements.css.less",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 281.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/views/home/index.html.haml",
+					"settings":
+					{
+						"buffer_size": 37,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Haml/Syntaxes/Ruby Haml.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/assets/stylesheets/variables.css.less",
+					"settings":
+					{
+						"buffer_size": 436,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								382,
+								382
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"place",
+				"app/models/place.rb"
+			],
+			[
+				"se",
+				"db/seeds.rb"
+			],
+			[
+				"modelre",
+				"app/models/review.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 226.0,
+	"status_bar_visible": true
+}
