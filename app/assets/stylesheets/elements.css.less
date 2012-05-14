@@ -84,6 +84,7 @@
 .btn.actions {
 	position: relative;
 	padding-right: 30px;
+	display: inline-block;
 
 	div.arrow {
 		position: absolute;
@@ -102,17 +103,25 @@
 			
 			background: url(sprite.png) -51px -39px no-repeat transparent;
 		}
+	}
 
-		div.extra {
-			position: absolute;
-			top: 20px;
-			right: -10px;
+	div.extra {
+		position: absolute;
+		top: 30px;
+		right: -65px;
+		z-index: 2;
 
-			.border-radius(14px);
-			border: 1px solid #d8d6d4;
-			padding: 10px;
+		background-color: #fff;
+		.border-radius(4px);
+		border: 1px solid #d8d6d4;
+		padding: 5px 10px;
+		width: 115px;
+		text-align: left;
+
+		a {
+			display: block;
+			color: #7c7e80;
 		}
 	}
 
-	
 }

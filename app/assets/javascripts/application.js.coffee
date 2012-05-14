@@ -22,4 +22,10 @@ $ ->
     $container.masonry
       itemSelector: ".item"
       columnWidth: 192
-    
+
+  $(".btn.actions .arrow").on "click", ->
+    $(this).parent().find(".extra").toggleClass "hidden"
+
+  $(".btn.actions .extra a").on "click", ->
+    $(this).parent().toggleClass "hidden"
+    return false   

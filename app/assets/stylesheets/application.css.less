@@ -215,7 +215,23 @@ header#header-page {
 	.item {
 		.btn.actions {
 			padding: 4px 25px 4px 4px;
-			font-weight: 500;
+			a {
+				font-weight: 500;
+				font-size: @fsz-tiny;
+				color: #333;
+				text-decoration: none;
+			}
+
+			.extra {
+				a {
+					color: #7c7e80;
+					font-weight: normal;
+					
+					&:hover{
+						color: #333;
+					}
+				}
+			}
 		}
 	}
 }
