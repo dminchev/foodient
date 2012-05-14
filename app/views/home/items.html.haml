@@ -1,0 +1,6 @@
+- show = 20
+- @list['recipes'][params[:page].to_i * show,show].each do |item|
+  = render :partial => 'item', :locals => { :item => item }
+
+%nav.next
+  = link_to 'next page', items_path(:page => params[:page].to_i + 1), :class => 'link'

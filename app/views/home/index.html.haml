@@ -1,3 +1,6 @@
 %section.items-grid#grid
-  - @list['recipes'].each do |item|
-    = render :partial => 'item', :locals => { :item => item }  
+  - @list['recipes'][0,20].each do |item|
+    = render :partial => 'item', :locals => { :item => item }
+
+%nav.next
+  = link_to 'next page', items_path(:page => 1), :class => 'link'

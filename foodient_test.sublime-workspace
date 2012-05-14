@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"short",
+				"short_url"
+			],
+			[
 				"tex",
 				"text	text-transform: capitalize/upper/lower"
 			],
@@ -127,7 +131,7 @@
 			"file": "app/views/layouts/fixed.html.haml",
 			"settings":
 			{
-				"buffer_size": 1242,
+				"buffer_size": 998,
 				"line_ending": "Unix"
 			}
 		},
@@ -135,7 +139,7 @@
 			"file": "app/assets/stylesheets/application.css.less",
 			"settings":
 			{
-				"buffer_size": 3672,
+				"buffer_size": 3693,
 				"line_ending": "Unix"
 			}
 		},
@@ -143,7 +147,7 @@
 			"file": "app/views/home/_item.html.haml",
 			"settings":
 			{
-				"buffer_size": 299,
+				"buffer_size": 443,
 				"line_ending": "Unix",
 				"name": "_item.html.haml"
 			}
@@ -152,7 +156,7 @@
 			"file": "app/assets/stylesheets/elements.css.less",
 			"settings":
 			{
-				"buffer_size": 1303,
+				"buffer_size": 1661,
 				"line_ending": "Unix",
 				"name": "elements.css.less"
 			}
@@ -161,15 +165,39 @@
 			"file": "app/views/home/index.html.haml",
 			"settings":
 			{
-				"buffer_size": 37,
+				"buffer_size": 133,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "app/assets/stylesheets/variables.css.less",
+			"file": "Gemfile",
 			"settings":
 			{
-				"buffer_size": 436,
+				"buffer_size": 313,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/home_controller.rb",
+			"settings":
+			{
+				"buffer_size": 292,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tmp/example.json",
+			"settings":
+			{
+				"buffer_size": 699157,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/javascripts/application.js.coffee",
+			"settings":
+			{
+				"buffer_size": 238,
 				"line_ending": "Unix"
 			}
 		}
@@ -218,8 +246,10 @@
 	},
 	"file_history":
 	[
-		"/Users/dobri/Sites/oDesk/Client1/foodient_test/app/views/shared/_sidebar.html.haml",
+		"/Users/dobri/Sites/oDesk/Client1/foodient_test/tmp/example.json",
+		"/Users/dobri/Sites/oDesk/Client1/foodient_test/app/assets/javascripts/application.js.coffee",
 		"/Users/dobri/Sites/oDesk/Client1/foodient_test/app/assets/stylesheets/variables.css.less",
+		"/Users/dobri/Sites/oDesk/Client1/foodient_test/app/views/shared/_sidebar.html.haml",
 		"/Users/dobri/Sites/oDesk/Client1/foodient_test/app/assets/stylesheets/bootstrap_and_overrides.css.less",
 		"/Users/dobri/Sites/oDesk/Client1/foodient_test/app/assets/stylesheets/forms.css.less",
 		"/Users/dobri/Sites/oDesk/Client1/foodient_test/Gemfile",
@@ -256,6 +286,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"border-ra",
+			"round",
+			"img",
 			"	",
 			"  ",
 			"checkin",
@@ -266,7 +299,7 @@
 			"tab"
 		],
 		"highlight": true,
-		"in_selection": true,
+		"in_selection": false,
 		"preserve_case": false,
 		"regex": false,
 		"replace_history":
@@ -284,7 +317,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -292,15 +325,15 @@
 					"file": "app/views/layouts/fixed.html.haml",
 					"settings":
 					{
-						"buffer_size": 1242,
+						"buffer_size": 998,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								458,
-								465
+								730,
+								730
 							]
 						],
 						"settings":
@@ -322,15 +355,15 @@
 					"file": "app/assets/stylesheets/application.css.less",
 					"settings":
 					{
-						"buffer_size": 3672,
+						"buffer_size": 3693,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3638,
-								3638
+								2947,
+								2953
 							]
 						],
 						"settings":
@@ -341,7 +374,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2694.0,
+						"translation.y": 2829.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -351,21 +384,25 @@
 					"file": "app/views/home/_item.html.haml",
 					"settings":
 					{
-						"buffer_size": 299,
+						"buffer_size": 443,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								294,
-								294
+								375,
+								418
 							]
 						],
 						"settings":
 						{
 							"auto_name": "_item.html.haml",
-							"syntax": "Packages/Haml/Syntaxes/Ruby Haml.tmLanguage"
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Haml/Syntaxes/Ruby Haml.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -378,15 +415,15 @@
 					"file": "app/assets/stylesheets/elements.css.less",
 					"settings":
 					{
-						"buffer_size": 1303,
+						"buffer_size": 1661,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								471,
-								471
+								1652,
+								1533
 							]
 						],
 						"settings":
@@ -398,7 +435,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 281.0,
+						"translation.y": 1124.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -408,15 +445,15 @@
 					"file": "app/views/home/index.html.haml",
 					"settings":
 					{
-						"buffer_size": 37,
+						"buffer_size": 133,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								22,
-								22
+								55,
+								55
 							]
 						],
 						"settings":
@@ -433,25 +470,110 @@
 				},
 				{
 					"buffer": 5,
-					"file": "app/assets/stylesheets/variables.css.less",
+					"file": "Gemfile",
 					"settings":
 					{
-						"buffer_size": 436,
+						"buffer_size": 313,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								382,
-								382
+								163,
+								163
 							]
 						],
 						"settings":
 						{
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/LESS/LESS.tmLanguage"
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/controllers/home_controller.rb",
+					"settings":
+					{
+						"buffer_size": 292,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "tmp/example.json",
+					"settings":
+					{
+						"buffer_size": 699157,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1295,
+								1306
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/assets/javascripts/application.js.coffee",
+					"settings":
+					{
+						"buffer_size": 238,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								231,
+								231
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/IcedCoffeeScript/Syntaxes/IcedCoffeeScript.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -507,6 +629,14 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"appj",
+				"app/assets/javascripts/application.js.coffee"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
 			[
 				"rou",
 				"config/routes.rb"

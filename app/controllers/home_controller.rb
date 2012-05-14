@@ -4,4 +4,9 @@ class HomeController < ApplicationController
 		@client = UrlShortener::Client.new(authorize)
 		@list = ActiveSupport::JSON.decode(File.read("#{Rails.root}/public/example.json"))
 	end
+
+	def items
+		@list = ActiveSupport::JSON.decode(File.read("#{Rails.root}/public/example.json"))
+		render :layout => false
+	end
 end

@@ -32,7 +32,7 @@
 
 	.item {
 		background-color: #fff;
-		width: 200px;
+		width: 180px;
 		float: left;
 		margin: 5px;
 		border: 1px solid #d8d6d4;
@@ -41,16 +41,20 @@
 		header {
 			padding: 10px;
 			img {
-				width: 180px;
+				width: 160px;
 			}
 		}
 		section {
 			padding: 0px 10px;
 			p {
 				color: #000;
-				font-size: @fsz-small;
-
+				font-size: @fsz-tiny;
 				margin-bottom: 10px;
+			}
+			
+			a {
+				color: #000;
+				font-weight: 500;
 			}
 		}
 
@@ -61,7 +65,7 @@
 			font-weight: bold;
 			background-color: #f2f0f0;
 			line-height: 28px;
-			overflow: hidden;
+			// overflow: hidden;
 
 			img {
 				vertical-align: top;
@@ -81,7 +85,7 @@
 	position: relative;
 	padding-right: 30px;
 
-	div {
+	div.arrow {
 		position: absolute;
 		top: 0;
 		right: 0;
@@ -98,5 +102,17 @@
 			
 			background: url(sprite.png) -51px -39px no-repeat transparent;
 		}
+
+		div.extra {
+			position: absolute;
+			top: 20px;
+			right: -10px;
+
+			.border-radius(14px);
+			border: 1px solid #d8d6d4;
+			padding: 10px;
+		}
 	}
+
+	
 }
